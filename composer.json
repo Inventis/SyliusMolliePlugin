@@ -7,7 +7,7 @@
         "php": "^7.3",
         "sylius/sylius": "^1.8",
         "mollie/mollie-api-php": "^2.0",
-        "sylius/refund-plugin": "1.0.0-RC.5",
+        "sylius/refund-plugin": "1.0.0-RC.6",
         "sylius/admin-order-creation-plugin": "^0.9.0",
         "ext-json": "*"
     },
